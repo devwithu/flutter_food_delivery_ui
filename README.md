@@ -1,3 +1,7 @@
 # flutter_food_delivery_ui
 
-![Screenshot1]("https://github.com/devwithu/flutter_food_delivery_ui/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-11%20at%2007.33.52.png")
+<div align="center">
+    <img src="/screenshot/Simulator Screen Shot - iPhone 11 Pro Max - 2020-04-11 at 07.33.52.png" width="400px"</img> 
+      <img src="/screenshot/Simulator Screen Shot - iPhone 11 Pro Max - 2020-04-11 at 07.34.47.png" width="400px"</img> 
+      <img src="/screenshot/Simulator Screen Shot - iPhone 11 Pro Max - 2020-04-11 at 07.34.55.png" width="400px"</img> 
+</div>
